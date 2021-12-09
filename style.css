@@ -213,7 +213,7 @@ small{
 }
 .col-3 p{
     font-size: 12px;
-    margin 120x 0;
+    margin :120x 0;
     color: #777;
 }
 
